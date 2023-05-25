@@ -1,6 +1,6 @@
-#BLOG REST API SYSTEM
+# BLOG REST API SYSTEM
 
-##SETUP
+## SETUP PROJECT
 
 Step 1
 Clone Repository
